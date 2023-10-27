@@ -1,4 +1,6 @@
-#Forked by me - Not in Use! - Dont Clone
+# Forked by Evan Erwee - Not in Use! - Dont Clone
+# Application are reviewed for future suuport
+# log4brains development seems to be abandond
 # Log4brains <!-- omit in toc -->
 
 <p align="center">
