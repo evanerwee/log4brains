@@ -1,5 +1,5 @@
 # Forked by Evan Erwee - Not in Use! - Dont Clone
-# Application are reviewed for future suuport
+# Application are reviewed for future support
 # log4brains development seems to be abandond
 # Log4brains <!-- omit in toc -->
 
